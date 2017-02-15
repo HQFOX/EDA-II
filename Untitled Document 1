@@ -1,0 +1,4 @@
+gcc -wall(debug) -std=gnu99 (versao compilador) ficheiro.c -o (nome do executavel)
+
+
+
